@@ -1,0 +1,6 @@
+{
+  "parser": "babel-eslint",
+  "rules": {
+    "@typescript-eslint/ban-ts-comment": "off"
+  }
+}
